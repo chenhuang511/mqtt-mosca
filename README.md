@@ -3,6 +3,8 @@
 - download and set Path Python 2.7
 - npm install --save mosca
 
+### QOS, refer from: https://code.google.com/archive/p/mqtt4erl/wikis/QualityOfServiceUseCases.wiki
+
 # Client
 
 ## QOS 0 - zero or more deliveries
